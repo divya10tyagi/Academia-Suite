@@ -12,8 +12,6 @@ class subject;
 class batch;
 class academic_record;
 class fee_manager;
-class subject;
-class fee_manager;
 
 // class User  is a common Generalised class whose characteristics are inherited in Teacher and Student.
 
